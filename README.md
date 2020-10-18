@@ -1,1 +1,1 @@
-# image-clustering-cats-vs-dogs
+# Image-clustering-cats-vs-dogs
